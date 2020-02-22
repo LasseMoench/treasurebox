@@ -13,6 +13,8 @@ This is what my final box looks like from the top:
 
 ![Treasure Box](treasure_box_outside.jpg "Treasure Box")
 
-And here are some (badly drawn) schematics on how I connected it all together:
+And here are some (badly drawn and unfortunately incomplete) schematics on how I connected it all together:
 
 ![Schematics](treasureschematic.jpg "Treasure Box Schematics")
+
+If I ever find the time and motivation I will hopefully document this more in-depth. Here is a [Blog post I wrote about it.](treasurebox.md "Blog Post")
